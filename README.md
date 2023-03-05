@@ -78,6 +78,7 @@ $ ros2 launch launches default_launch.py
 # OR
 
 # Launch the interactive launch file
+# source /usr/share/gazebo/setup.sh
 $ ros2 launch launches click_launch.py
 ```
 
